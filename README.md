@@ -4,6 +4,8 @@
 Totally get one of those collapsible swords printed in a strong material, just having swordfights with people is so fun and you can get everyone different colour caps on the handle.
 
 Trust me, I'm a professional. I'm just not sure what in, yet.
+
+Concered about using pre-poisoned SQL links to mass get people banned from websites; and disk image injection
 <!--
 **JamesButBetter/JamesButBetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
